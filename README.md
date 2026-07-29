@@ -1,6 +1,6 @@
 # 2026 翻墙机场推荐（持续更新）
 
-最后更新时间：2026-07-26
+最后更新时间：2026-07-29
 
 本文持续整理目前仍值得推荐的翻墙机场，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -628,7 +628,7 @@ TG电报频道和群：有
 - 预算一般
 
 #### 官网：
-[龙猫云机场官网地址](https://jctj02.lmvipaff03.cc/#/register?code=Qb502cPh)
+[龙猫云机场官网地址](https://inv06.lmaff01.cc/register?aff=Qb502cPh)
 
 
 >开业时间：2022   
@@ -843,11 +843,10 @@ AnyTLS + TUIC 双协议公网中转+直连机场，动态倍率，适合追求�
 - 需要UDP
 
 #### 官网：
-[瑶瑶领先机场官网1](https://yyssr.org/auth/register?code=3fcd85f6aa)   
+[瑶瑶领先机场官网1](https://瑶瑶领先.com/auth/register?code=3fcd85f6aa)   
 
 [瑶瑶领先机场官网2](https://yyssr.net/auth/register?code=3fcd85f6aa)  
 
-[瑶瑶领先机场官网3](https://瑶瑶领先.com/auth/register?code=3fcd85f6aa)   
 
 >老板肉身：欧洲  
 开业时长：2022.3之前     
