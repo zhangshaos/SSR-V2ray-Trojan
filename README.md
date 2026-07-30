@@ -155,11 +155,11 @@ TG频道：无
 
 [悠兔机场官网地址2](https://jctj.youtu0.com?path=register&code=3CxiqyOc)     
 
-[悠兔机场官网地址3](https://777.youtu6.shop/register?aff=3CxiqyOc) 
+[悠兔机场官网地址3](https://111.youtu6.shop/register?aff=3CxiqyOc) 
 
 [悠兔机场官网地址4](https://888.youtu7.shop/register?aff=3CxiqyOc)
 
-[悠兔机场官网地址5](https://youtu1.xyz/register?aff=3CxiqyOc)     
+[悠兔机场官网地址5](https://666.youtu1.xyz/register?aff=3CxiqyOc)     
 
 
 **适合：**
