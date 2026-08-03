@@ -1,6 +1,6 @@
 # 2026 翻墙机场推荐（持续更新）
 
-最后更新时间：2026-07-29
+最后更新时间：2026-08-03
 
 本文持续整理目前仍值得推荐的翻墙机场，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -413,7 +413,7 @@ Kycloud是一家运营很多年老牌IEPL专线中转SS+Vmess协议多入口机�
 - 需要SS和Vmess等老协议
 
 #### 官网：
-[kycloud机场官网](https://my.cloudnz.cc/aff.php?aff=40961)
+[kycloud机场官网](https://my.ihcloud.cc/aff.php?aff=40961)
 
 >开业时间：2017年开的老牌机场         
 老板肉身：海外(确定)         
@@ -628,7 +628,7 @@ TG电报频道和群：有
 - 预算一般
 
 #### 官网：
-[龙猫云机场官网地址](https://inv06.lmaff01.cc/register?aff=Qb502cPh)
+[龙猫云机场官网地址](https://jichangtj01.lmvipaff.com/#/register?code=Qb502cPh)
 
 
 >开业时间：2022   
