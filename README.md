@@ -1,6 +1,6 @@
 # 2026 翻墙机场推荐（持续更新）
 
-最后更新时间：2026-08-03
+最后更新时间：2026-08-06
 
 本文持续整理目前仍值得推荐的翻墙机场，包括 IEPL 专线机场、AnyTLS 机场、中转机场、Shadowsocks 机场等。
 
@@ -106,7 +106,7 @@ BoostNet 是一家采用 AnyTLS 协议的三网 IEPL 专线+透传专线机场�
 老板肉身：墙外  
 入口与过境线路：过境IEPL专线+透传专线    
 节点数目： 30+      
-协议：Anytls（下面客户端最新版本支持：Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge、karing、Shadowrocket、stash、Surge、Egern、Loon）     
+协议：Anytls（下面客户端最新版本支持：Clash MI、Clash Meta、Flclash、Surfboard、Clash Party、Sparkle、Clash Verge、karing、Shadowrocket、stash、Surge、Egern、Loon、QuantumultX）     
 UDP：支持    
 限制同时登录ip客户端数目：软性限制5个ip    
 ChatGPT/OpenAI解锁: 基本全解锁    
@@ -559,60 +559,57 @@ TG频道和群组：无
 
 
 
-
-### 九、山海机场(直连与中转|Anytls|15块/月128G)
+### 九、海獭机场(中转|Trojan|25/季50G)
 
 **一句话评价：**
 
-山海是一家最早使用AnyTLS协议的直连与专线双线路机场
-双线路更安全，且不是所有网络都适合直连。也做了常见流媒体解锁。老板比较负责，买线路也积极。
-注意目前只有部分客户端支持：最新版本的：Shadowrocket、mihomo内核的（Flclash、Clash verge rev、Sparkle、clash party、clash meta、clashMi）、NekoBox For Android、singbox、karing、surge、stash、loon、egern、Surfboard
+公网中转 Trojan 机场，价格便宜、带宽充足，适合作为入门机场或备用机场。
 
-老板表示优先使用他家客户端，有优先保证稳定性和速度。第三方客户端不保证。
+海獭机场是一家Trojan协议三线入口隧道公网中转机场。 带宽日常足够，速度很不错。但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。  
+85折优惠码：pN02HX5n    
+
+这家导入订阅失败的话需要找客服要订阅转换才能导入   
+
 
 **适合：**
-- 不介意使用他家官方客户端
 - 预算有限对稳定性要求不是非常高
+- 需要Trojan协议不使用新协议的机场
 
-#### 官网：
-[山海官网](https://shanhai.me/#/register?code=CbE2YfJJ)
+#### 官网： 
+[Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)
+[Haita机场官网地址](http://jichangtj.haita.io/register?aff=VQq8ZO5j)
 
->老板肉身：澳洲     
-开业时长：2024.3之前     
-过境：国内入口（客户端才用）+通用客户端使用直连     
-协议：Anytls     
-UDP：支持     
-节点国家与地区：中转：香港、台湾、日本、美国、英国、越南、法国、德国、泰国、印度、埃及、新加坡、菲律宾、加拿大、澳洲、巴基斯坦、马来、韩国。 直连：香港、台湾、日本、美国、韩国、台湾、泰国、越南、新加坡、菲律宾、马来、澳洲     
-墙外新闻网站屏蔽情况：轮媒     
-SSH端口屏蔽：未屏蔽22端口     
-TG电报频道和群：有     
-只能中国内地使用：否，有海外入口，大陆外用户可用     
-面板:v2board     
-不限设备     
-<a href="./shanhai.html" target="_blank">山海拓扑结构、流媒体、ChatGPT解锁和历史测速结果合集</a>
 
+>开业时间：2023.11         
+过境: 公网中转        
+协议：trojan       
+付款方式：支付宝        
+TG频道和群：无        
+客户端数目：不限制        
+落地ip数量： 23+        
+节点国家与地区：香港、日本、新加坡、美国、加拿大、台湾、韩国    
+ChatGPT/OpenAI解锁: 部分解锁        
+墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
+SSH端口屏蔽：22端口未屏蔽        
+只能内地使用：是。新疆无法使用           
+注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置        
+<a href="https://jichangcesu.com/海獭机场怎么样.html" target="_blank">海獭机场使用教程、拓扑结构和测速</a>
 
 #### 套餐：
-##### 月付套餐（中转 + 三网 IEPL 专线）
-
-| 月付价格 | 流量 |
+| 套餐价格 | 流量 |
 | ---- | ---- |
-| 15 元/月 | 128GB/月 |
-| 25 元/月 | 256GB/月 |
-| 45 元/月 | 512GB/月 |
-| 85 元/月 | 1024GB/月 |
-| 165 元/月 | 2048GB/月 |
-| 325 元/月 | 4096GB/月 |
-| 645 元/月 | 8192GB/月 |
-
+| 25 元/季 | 50G/月 |
+| 15.99 元/月 | 100G/月 |
+| 25.99 元/月 | 200G/月 |
+| 34.99 元/月 | 350G/月 |
+| 54.99 元/月 | 700G/月 |
+| 92.99 元/月 | 900G/月 |
 
 #### 测速：
 <details>
- <summary>测速图，点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/shanhai.webp"  width = "90%"   align=center  alt="机场推荐之万山海机场测速" />
+<summary>haita机场测速图和流媒体-点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场测速" />
 </details>
-
-
 
 
 ### 十、龙猫云机场(中转机场|Trojan|15/月100G)
@@ -672,60 +669,9 @@ TG电报频道：机场官网，关注人数：1000+;群禁言
 
 
 
-### 十一、海獭机场(中转|Trojan|25/季50G)
-
-**一句话评价：**
-
-公网中转 Trojan 机场，价格便宜、带宽充足，适合作为入门机场或备用机场。
-
-海獭机场是一家Trojan协议三线入口隧道公网中转机场。 带宽日常足够，速度很不错。但是奈飞和迪士尼、chatgpt都有解锁。中转带宽很大。  
-85折优惠码：pN02HX5n    
-
-这家导入订阅失败的话需要找客服要订阅转换才能导入   
 
 
-**适合：**
-- 预算有限对稳定性要求不是非常高
-- 需要Trojan协议不使用新协议的机场
-
-#### 官网： 
-[Haita机场官网地址](https://haita.link/register?aff=VQq8ZO5j)
-[Haita机场官网地址](http://jichangtj.haita.io/register?aff=VQq8ZO5j)
-
-
->开业时间：2023.11         
-过境: 公网中转        
-协议：trojan       
-付款方式：支付宝        
-TG频道和群：无        
-客户端数目：不限制        
-落地ip数量： 23+        
-节点国家与地区：香港、日本、新加坡、美国、加拿大、台湾、韩国    
-ChatGPT/OpenAI解锁: 部分解锁        
-墙外新闻网站屏蔽情况：屏蔽轮媒和pingcong        
-SSH端口屏蔽：22端口未屏蔽        
-只能内地使用：是。新疆无法使用           
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。首页点【重置】付费重置        
-<a href="https://jichangcesu.com/海獭机场怎么样.html" target="_blank">海獭机场使用教程、拓扑结构和测速</a>
-
-#### 套餐：
-| 套餐价格 | 流量 |
-| ---- | ---- |
-| 25 元/季 | 50G/月 |
-| 15.99 元/月 | 100G/月 |
-| 25.99 元/月 | 200G/月 |
-| 34.99 元/月 | 350G/月 |
-| 54.99 元/月 | 700G/月 |
-| 92.99 元/月 | 900G/月 |
-
-#### 测速：
-<details>
-<summary>haita机场测速图和流媒体-点击展开</summary>
-<img src="https://jichangcesu.com/uploads/vpn/haita.webp"  width = "90%"  align=center  alt="haita机场测速" />
-</details>
-
-
-### 十二、万达云机场(IEPL专线|Anytls|14/月150G)
+### 十一、万达云机场(IEPL专线|Anytls|14/月150G)
 
 **一句话评价：**
 
@@ -774,7 +720,7 @@ TG电报频道：有
 </details>
 
 
-### 十三、web3加速器机场(IEPL|ss|25/月200G)   
+### 十二、web3加速器机场(IEPL|ss|25/月200G)   
 
 **一句话评价：**
 
@@ -828,7 +774,7 @@ vip3:800G/月| 880/年
 </details>
 
 
-### 十四、瑶瑶领先机场(中转机场|Anytls|9.9/月384G)
+### 十三、瑶瑶领先机场(中转机场|Anytls|9.9/月384G)
 
 **一句话评价：**
 
@@ -881,6 +827,68 @@ TG电报频道和群：有
 <img src="https://jichangcesu.com/uploads/vpn/yylx.webp"  width = "90%"   align=center  alt="机场推荐之瑶瑶领先机场测速" />
 </details>
 
+
+
+
+### 十四、山海机场(直连与中转|Anytls|15块/月128G)
+
+**一句话评价：**
+
+山海是一家最早使用AnyTLS协议的直连与专线双线路机场
+双线路更安全，且不是所有网络都适合直连。也做了常见流媒体解锁。老板比较负责，买线路也积极。
+
+稳定性可能近期一般但是老板维护及时。  
+老板表示优先使用他家客户端，有优先保证稳定性和速度。第三方客户端不保证。
+
+**适合：**
+- 不介意使用他家官方客户端
+- 预算有限对稳定性要求不是非常高
+
+#### 官网：
+
+[山海官网1](https://shanhai.me/#/register?code=CbE2YfJJ)
+[山海官网2](https://shanhai.one/#/register?code=CbE2YfJJ)
+[山海官网3](https://shanhai.shs/#/register?code=CbE2YfJJ)
+[山海官网4](https://shanhai.cfd/#/register?code=CbE2YfJJ)
+[山海官网5](https://shanhai.click/#/register?code=CbE2YfJJ)
+[山海官网6](https://shanhai.you/#/register?code=CbE2YfJJ)
+
+
+
+>老板肉身：澳洲     
+开业时长：2024.3之前     
+过境：国内入口（客户端才用）+通用客户端使用直连     
+协议：Anytls     
+UDP：支持     
+节点国家与地区：中转：香港、台湾、日本、美国、英国、越南、法国、德国、泰国、印度、埃及、新加坡、菲律宾、加拿大、澳洲、巴基斯坦、马来、韩国。 直连：香港、台湾、日本、美国、韩国、台湾、泰国、越南、新加坡、菲律宾、马来、澳洲     
+墙外新闻网站屏蔽情况：轮媒     
+SSH端口屏蔽：未屏蔽22端口     
+TG电报频道和群：有     
+只能中国内地使用：否，有海外入口，大陆外用户可用     
+面板:v2board     
+不限设备     
+<a href="./shanhai.html" target="_blank">山海拓扑结构、流媒体、ChatGPT解锁和历史测速结果合集</a>
+
+
+#### 套餐：
+##### 月付套餐（中转 + 三网 IEPL 专线）
+
+| 月付价格 | 流量 |
+| ---- | ---- |
+| 15 元/月 | 128GB/月 |
+| 25 元/月 | 256GB/月 |
+| 45 元/月 | 512GB/月 |
+| 85 元/月 | 1024GB/月 |
+| 165 元/月 | 2048GB/月 |
+| 325 元/月 | 4096GB/月 |
+| 645 元/月 | 8192GB/月 |
+
+
+#### 测速：
+<details>
+ <summary>测速图，点击展开</summary>
+<img src="https://jichangcesu.com/uploads/vpn/shanhai.webp"  width = "90%"   align=center  alt="机场推荐之万山海机场测速" />
+</details>
 
 
 
